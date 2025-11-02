@@ -1,0 +1,22 @@
+4. Backend will run at `http://localhost:5000`
+
+### Frontend
+
+1. Open `frontend/index.html` in your browser.
+2. Chat away!
+
+---
+
+## Features
+
+- Chat interface with user and AI messages
+- Voice input button (if browser supports speech recognition)
+- Simple AI reply simulation on backend
+
+---
+
+Feel free to extend AI logic or connect to real AI services!
+
+---
+
+Made with ❤️ by Your Name
