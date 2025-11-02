@@ -1,28 +1,42 @@
-# AI-Chat-Bot
+# 💬 AI Chat Bot
 
-
-A modern AI-powered chat application featuring a stunning moon-space live wallpaper background.  
-The app supports voice input, emoji reactions, background brightness adjustment, and a theme switcher for light/dark modes.
-
----
-
-## Features
-
-- Real-time chat with AI responses  
-- Voice input support with microphone  
-- Emoji picker for expressive chats  
-- Background brightness adjustment slider  
-- Light and dark theme switching  
-- Responsive and sleek UI with smooth animations  
-- Stylish moon-space video wallpaper background  
+A **real-time AI-powered chat application** that enables natural and human-like conversations.  
+This project integrates **React.js**, **Node.js**, and **Flask** to create a responsive frontend and a scalable backend, providing a seamless chat experience between users and an AI model.
 
 ---
 
+## 🚀 Features
+
+- 🤖 **AI-Powered Conversations:** Uses a backend AI model for intelligent, human-like replies.  
+- ⚡ **Real-Time Messaging:** Instant two-way communication with smooth UI updates.  
+- 🌐 **Responsive Frontend:** Built using React.js, HTML5, CSS3, and JavaScript.  
+- 🧠 **Scalable Backend:** Combines Node.js and Flask for API management and AI processing.  
+- 🔒 **Secure Communication:** RESTful APIs and clean data flow between client and server.
 
 ---
 
-## How to Run
+## 🧩 Tech Stack
 
-1. Clone this repository:  
-   ```bash
-   git clone https://github.com/yourusername/poly-ai-chat.git
+| Layer | Technology Used |
+|-------|------------------|
+| Frontend | React.js, HTML5, CSS3, JavaScript |
+| Backend | Node.js (for server), Flask (for AI processing) |
+| Communication | REST APIs / WebSocket |
+| AI | Python-based NLP / ML model integration |
+| Tools | npm, pip, VS Code, Postman |
+
+---
+
+## 🛠️ Installation & Setup
+
+### Prerequisites
+Make sure you have installed:
+- **Node.js** (v16+)
+- **Python** (v3.8+)
+- **npm** or **yarn**
+- **pip**
+
+### 1️⃣ Clone the repository
+```bash
+git clone https://github.com/abhii0402/ai-chat-bot.git
+cd ai-chat-bot
